@@ -5,4 +5,9 @@
 	<project name="atf2.3_m7_2020.09" remote="SDK-2020.09" path="Bootloader/atf2.3_m7_2020.09"/>
 	<project name="rkbin_m9_2020.09" remote="SDK-2020.09" path="Bootloader/rkbin_m9_2020.09"/>
 	<project name="atf2.3_m9_2020.09" remote="SDK-2020.09" path="Bootloader/atf2.3_m9_2020.09"/>
+	<project name="linux-4.4.179_M9_2020.09" remote="SDK-2020.09" path="Kernels/linux-4.4.179_M9_2020.09"/>
+	<project name="linux-4.4.167_M7_2020.09" remote="SDK-2020.09" path="Kernels/linux-4.4.167_M7_2020.09"/>
+	<project name="Utils-2020.09" remote="SDK-2020.09" path="Utils-2020.09"/>
+	<project name="NOVAembed-2020.09" remote="SDK-2020.09" path="Qt/NOVAembed-2020.09"/>
+
 </manifest>
