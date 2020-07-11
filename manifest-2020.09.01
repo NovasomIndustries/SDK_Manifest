@@ -1,7 +1,7 @@
 <manifest>
-<remote name="SDK-2020.09" fetch="https://github.com/novasomindustries"/>
-	<default revision="refs/heads/master" remote="NOVAsomIndustries" sync-j="4"/>
-	<project name="meta-novasom" remote="NOVAsomIndustries" path="meta-novasom"/>
-	<project name="rkbin_m7_2020.09" remote="NOVAsomIndustries" path="rkbin_m7_2020.09"/>
-	<project name="atf2.3_m7_2020.09" remote="NOVAsomIndustries" path="atf2.3_m7_2020.09"/>
+<remote name="SDK-2020.09" fetch="https://github.com"/>
+	<default revision="refs/heads/master" remote="novasomindustries" sync-j="4"/>
+	<project name="meta-novasom" remote="novasomindustries" path="meta-novasom"/>
+	<project name="rkbin_m7_2020.09" remote="novasomindustries" path="rkbin_m7_2020.09"/>
+	<project name="atf2.3_m7_2020.09" remote="novasomindustries" path="atf2.3_m7_2020.09"/>
 </manifest>
