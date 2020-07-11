@@ -1,6 +1,8 @@
 # SDK_Manifest
 Install repo:
+
 mkdir ~/bin
+
 PATH=~/bin:$PATH
 
 Download the Repo script and ensure it is executable:
