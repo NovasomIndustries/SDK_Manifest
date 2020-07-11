@@ -3,6 +3,6 @@
 	<default revision="refs/heads/master" remote="SDK-2020.09" sync-j="4"/>
 	<project name="rkbin_m7_2020.09" remote="SDK-2020.09" path="Bootloader/rkbin_m7_2020.09"/>
 	<project name="atf2.3_m7_2020.09" remote="SDK-2020.09" path="Bootloader/atf2.3_m7_2020.09"/>
-	<project name="rkbin_m9_2020.09" remote="SDK-2020.09" path="Bootloader/rkbin_m7_2020.09"/>
-	<project name="atf2.3_m9_2020.09" remote="SDK-2020.09" path="Bootloader/atf2.3_m7_2020.09"/>
+	<project name="rkbin_m9_2020.09" remote="SDK-2020.09" path="Bootloader/rkbin_m9_2020.09"/>
+	<project name="atf2.3_m9_2020.09" remote="SDK-2020.09" path="Bootloader/atf2.3_m9_2020.09"/>
 </manifest>
