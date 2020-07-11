@@ -9,7 +9,7 @@ PATH=~/bin:$PATH
 curl https://storage.googleapis.com/git-repo-downloads/repo > \~/bin/repo<br>
 chmod a+x \~/bin/repo
 
-# Initialize NOVAsomIndustries repo and download SDK
+# Initialize NOVAsomIndustries repo and download SDK :
 
 \~/bin/repo init -u https://github.com/NovasomIndustries/SDK_Manifest<br>
 \~/bin/repo sync
