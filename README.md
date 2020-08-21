@@ -1,6 +1,6 @@
 # SDK_Manifest
 
-# Install repo :
+# Install repo:
 mkdir \~/bin<br>
 PATH=~/bin:$PATH
 
@@ -14,4 +14,4 @@ chmod a+x \~/bin/repo
 \~/bin/repo init -u https://github.com/NovasomIndustries/SDK_Manifest<br>
 \~/bin/repo sync
 
-The script SDK_Create creates the directories tree in /Devel ( should exists and word writable )
+The script SDK_Create.sh installs repo in \~/bin and creates the directories tree in /Devel ( should exists and word writable )
