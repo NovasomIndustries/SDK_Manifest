@@ -10,7 +10,7 @@ done
 ln -s Utils-2020.09 Utils
 ln -s XCompilers-2020.09 XCompilers
 ln -s Doc-2020.09 Doc
-ln -s Packages-2020.09
+ln -s Packages-2020.09 Packages
 
 if ! [ -f ~/bin/repo ]; then
 	mkdir ~/bin
