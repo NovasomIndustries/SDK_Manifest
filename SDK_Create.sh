@@ -18,6 +18,7 @@ cd Qt
 git clone https://github.com/NovasomIndustries/NOVAembed-2020_09.git
 ln -s NOVAembed-2020_09 NOVAembed
 cd ..
+
 ln -s Utils-2020.09 Utils
 ln -s XCompilers-2020.09 XCompilers
 ln -s Doc-2020.09 Doc
@@ -25,9 +26,11 @@ ln -s Packages-2020.09 Packages
 cd FileSystems
 ln -s ../Utils/rock/rk_external external
 cd ..
+
 cd XCompilers
 for i in ${COMPILERS}; do
 	tar jxf ${i}
 done
 
+sudo apt-get install -y build-essential git wget cpio unzip rsync bc libncurses5-dev screen curl qt5-default qtcreator codeblocks meld libfl-dev patchelf cmake
 
