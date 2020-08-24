@@ -22,6 +22,9 @@ ln -s Utils-2020.09 Utils
 ln -s XCompilers-2020.09 XCompilers
 ln -s Doc-2020.09 Doc
 ln -s Packages-2020.09 Packages
+cd FileSystems
+ln -s ../Utils/rock/rk_external external
+cd ..
 cd XCompilers
 for i in ${COMPILERS}; do
 	tar jxf ${i}
